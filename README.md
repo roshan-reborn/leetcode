@@ -15,3 +15,6 @@ Each directory contains a README file with more details about the specific serie
 3. **Clone the Repository**: To run the code locally, clone the repository using the following command:
    ```bash
    git clone https://github.com/roshan-reborn/leetcode.git
+
+## Contact
+Connect with me on [LinkedIn](https://www.linkedin.com/in/roshan99/) for more discussions and updates.

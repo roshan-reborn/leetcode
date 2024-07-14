@@ -1,6 +1,6 @@
 # Top 150 Interview Questions on LeetCode
 
-This directory contains my solutions to the top 150 LeetCode interview questions. Each problem is categorized by difficulty level and includes detailed explanations and solutions implemented in Java.
+This directory contains my solutions to the top 150 LeetCode interview questions. Each problem is categorized by difficulty level and includes detailed solutions implemented in Java.
 
 ## How to Use
 
@@ -10,7 +10,7 @@ You can navigate through each category to explore problems of different difficul
 
 Here's a quick overview of my progress:
 
-- [ ] [Easy Problems](Easy/README.md): 9/40 solved
+- [ ] [Easy Problems](Easy/README.md): 10/40 solved
 - [ ] [Medium Problems](Medium/README.md): 2/92 solved
 - [ ] [Hard Problems](Hard/README.md): 0/18 solved
 

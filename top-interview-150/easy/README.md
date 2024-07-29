@@ -2,10 +2,15 @@
 
 This directory contains my solutions to easy problems from the top 150 LeetCode interview questions series.
 
+## Star Rating System
+- ★☆☆: Needs revision
+- ★★☆: Moderately comfortable
+- ★★★: Easily solved
+
 ## Problems
 
-- [Merge Sorted Array](merge_sorted_array.java)
-- [Remove Element](remove_element.java)
+- [Merge Sorted Array](merge_sorted_array.java) ★☆☆
+- [Remove Element](remove_element.java) ★★☆
 - [Remove Duplicates from Sorted Array](remove_duplicates.java)
 - [Majority Element](majority_element.java)
 - [Best Time to Buy and Sell Stock](best_time_to_buy_and_sell_stock.java)

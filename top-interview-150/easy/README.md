@@ -9,7 +9,7 @@ This directory contains my solutions to easy problems from the top 150 LeetCode 
 
 ## Problems
 
-- [Merge Sorted Array](merge_sorted_array.java) ★☆☆
+- [Merge Sorted Array](merge_sorted_array.java) ★★★
 - [Remove Element](remove_element.java) ★★☆
 - [Remove Duplicates from Sorted Array](remove_duplicates.java)
 - [Majority Element](majority_element.java)

@@ -2,6 +2,11 @@
 
 This directory contains my solutions to hard problems from the top 150 LeetCode interview questions series.
 
+## Star Rating System
+- ★☆☆: Needs revision
+- ★★☆: Moderately comfortable
+- ★★★: Easily solved
+
 ## Problems
 
 - [Two Sum](two_sum.java)

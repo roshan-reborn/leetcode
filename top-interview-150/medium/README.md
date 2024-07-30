@@ -2,6 +2,11 @@
 
 This directory contains my solutions to medium problems from the top 150 LeetCode interview questions series.
 
+## Star Rating System
+- ★☆☆: Needs revision
+- ★★☆: Moderately comfortable
+- ★★★: Easily solved
+
 ## Problems
 
 - [Remove Duplicates from Sorted Array II](remove_duplicates2.java)

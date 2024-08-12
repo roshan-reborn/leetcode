@@ -25,6 +25,12 @@ This directory contains my solutions to easy problems from the top 150 LeetCode 
 - [Word Pattern](word_pattern.java)
 - [Valid Anagram](valid_anagram.java)
 - [Two Sum](two_sum.java)
+- [202. Happy Number](happy_number.java)
+- [219. Contains Duplicate](contains_duplicate_2.java)
+- [228. Summary Ranges](summary_ranges.java)
+- [20. Valid Parentheses](valid_parantheses.java)
+- [141. Linked List Cycle](linked_list_cycle.java)
+- [21. Merge Two Sorted Lists](merge_two_sorted_lists.java)
 
 Feel free to explore each problem and provide feedback or suggestions on my solutions!
 

@@ -9,8 +9,8 @@ This directory contains my solutions to medium problems from the top 150 LeetCod
 
 ## Problems
 
-- [Remove Duplicates from Sorted Array II](remove_duplicates2.java)
-- [Rotate Array](rotate_array.java)
+- [80. Remove Duplicates from Sorted Array II](remove_duplicates2.java)
+- [189. Rotate Array](rotate_array.java)
 
 Feel free to explore each problem and provide feedback or suggestions on my solutions!
 

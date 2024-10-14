@@ -34,6 +34,18 @@ This directory contains my solutions to easy problems from the top 150 LeetCode 
 - [104. Maximum Depth of Binary Tree](maxdepth_bt.java)
 - [100. Same Tree](same_tree_bt.java)
 - [226. Invert Binary Tree](invert_tree_bt.java)
+- [101. Symmetric Tree](symmetric_tree.java)
+- [112. Path Sum](path_sum.java)
+- [222. Count Complete Tree Nodes](count_complete_treenodes.java)
+- [637. Average of Levels in Binary Tree](average_of_levels_in_bt.java)
+- [530. Minimum Absolute Difference in BST](min_diff_in_bst.java)
+- [108. Convert Sorted Array to Binary Search Tree](sorted_arr_to_bst.java)
+- [35. Search Insert Position](search_insert_position.java)
+- [67. Add Binary](add_binary.java)
+- [190. Reverse Bits](reverse_bits.java)
+- [191. Number of 1 Bits](no_of_1_bits.java)
+- [136. Single Number](single_number.java)
+- [9. Palindrome Number](palindrome_number.java)
 
 Feel free to explore each problem and provide feedback or suggestions on my solutions!
 

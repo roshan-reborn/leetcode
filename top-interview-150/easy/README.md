@@ -46,6 +46,9 @@ This directory contains my solutions to easy problems from the top 150 LeetCode 
 - [191. Number of 1 Bits](no_of_1_bits.java)
 - [136. Single Number](single_number.java)
 - [9. Palindrome Number](palindrome_number.java)
+- [66. Plus One](plus_one.java)
+- [69. Sqrt(x)](sqrt_x.java)
+- [70. Climbing Stairs](climbing_stairs.java)
 
 Feel free to explore each problem and provide feedback or suggestions on my solutions!
 

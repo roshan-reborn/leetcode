@@ -10,15 +10,15 @@ This directory contains my solutions to easy problems from the top 150 LeetCode 
 ## Problems
 
 - [88. Merge Sorted Array](merge_sorted_array.java) ★★☆
-- [27. Remove Element](remove_element.java)
-- [26. Remove Duplicates from Sorted Array](remove_duplicates.java)
-- [169. Majority Element](majority_element.java)
-- [121. Best Time to Buy and Sell Stock](best_time_to_buy_and_sell_stock.java)
-- [13. Roman to Integer](roman_to_integer.java)
-- [58. Length of Last Word](length_of_last_word.java)
-- [14. Longest Common Prefix](longest_common_prefix.java)
-- [28. Find the Index of the First Occurrence in a String](find_index_of_first_occurrence_in_string.java)
-- [125. Valid Palindrome](valid_palindrome.java)
+- [27. Remove Element](remove_element.java) ★★☆
+- [26. Remove Duplicates from Sorted Array](remove_duplicates.java) ★★☆
+- [169. Majority Element](majority_element.java) ★★☆
+- [121. Best Time to Buy and Sell Stock](best_time_to_buy_and_sell_stock.java) ★★☆
+- [13. Roman to Integer](roman_to_integer.java) ★★☆
+- [58. Length of Last Word](length_of_last_word.java) ★★☆
+- [14. Longest Common Prefix](longest_common_prefix.java) ★★☆
+- [28. Find the Index of the First Occurrence in a String](find_index_of_first_occurrence_in_string.java) ★★☆
+- [125. Valid Palindrome](valid_palindrome.java) ★★☆
 - [392. Is Subsequence](is_subsequence.java)
 - [383. Ransom Note](ransom_note.java)
 - [205. Isomorphic Strings](isomorphic_strings.java)

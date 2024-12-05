@@ -1,6 +1,6 @@
-# Easy Problems
+# Hard Problems
 
-This directory contains my solutions to easy problems from the leetCode patterns series.
+This directory contains my solutions to hard problems from the leetCode patterns series.
 
 ## Problems
 

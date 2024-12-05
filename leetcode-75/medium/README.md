@@ -1,6 +1,6 @@
-# Easy Problems
+# Medium Problems
 
-This directory contains my solutions to easy problems from the leetCode patterns series.
+This directory contains my solutions to medium problems from the leetCode 75 series.
 
 ## Problems
 

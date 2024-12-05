@@ -1,6 +1,11 @@
-# Easy Problems
+# Hard Problems
 
-This directory contains my solutions to easy problems from the leetCode patterns series.
+This directory contains my solutions to all the hard problems from leetcode.
+
+## Star Rating System
+- ★☆☆: Needs revision
+- ★★☆: Moderately comfortable
+- ★★★: Easily solved
 
 ## Problems
 

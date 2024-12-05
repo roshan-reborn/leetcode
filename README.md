@@ -4,6 +4,9 @@ Welcome to my LeetCode Solutions Repository! This repository contains solutions 
 
 ## Directory Structure
 
+- [Java Solutions](./java-solutions/README.md)
+- [LeetCode 75](./leetcode-75/README.md)
+- [LeetCode Patterns by Sean Prashad](./leetcode-patterns-seanprashad/README.md)
 - [Top 150 Interview Questions](./top-interview-150/README.md)
 
 Each directory contains a README file with more details about the specific series and a collection of solutions for the problems in that series.

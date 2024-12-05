@@ -1,10 +1,10 @@
-# Hard Problems
+# Easy Problems
 
-This directory contains my solutions to hard problems from the top 150 LeetCode interview questions series.
+This directory contains my solutions to easy problems from the leetCode patterns series.
 
 ## Problems
 
-- [Example](example.java)
+- [88. Merge Sorted Array](merge_sorted_array.java)
 
 Feel free to explore each problem and provide feedback or suggestions on my solutions!
 

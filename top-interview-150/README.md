@@ -10,7 +10,7 @@ You can navigate through each category to explore problems of different difficul
 
 Here's a quick overview of my progress:
 
-- [ ] [Easy Problems](easy/README.md): 40/40 solved ★★☆
+- [x] [Easy Problems](easy/README.md): 40/40 solved
 - [ ] [Medium Problems](medium/README.md): 2/92 solved
 - [ ] [Hard Problems](hard/README.md): 0/18 solved
 

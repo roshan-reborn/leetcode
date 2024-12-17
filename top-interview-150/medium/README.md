@@ -6,6 +6,11 @@ This directory contains my solutions to medium problems from the top 150 LeetCod
 
 - [80. Remove Duplicates from Sorted Array II](../../java-solutions/medium/remove_duplicates2.java)
 - [189. Rotate Array](../../java-solutions/medium/rotate_array.java)
+- [122. Best Time to Buy and Sell Stock II](../../java-solutions/medium/best_time_to_buy_and_sell_stock_2.java)
+- [55. Jump Game](../../java-solutions/medium/jump_game.java)
+- [45. Jump Game II](../../java-solutions/medium/jump_game_2.java)
+- [274. H-Index](../../java-solutions/medium/h_index.java)
+- [380. Insert Delete GetRandom O(1)](../../java-solutions/medium/insert_delete_getrandom_o1.java)
 
 Feel free to explore each problem and provide feedback or suggestions on my solutions!
 

@@ -10,6 +10,7 @@ This directory contains my solutions to easy problems from the leetCode patterns
 - [136. Single Number](../../java-solutions/easy/single_number.java)
 - [70. Climbing Stairs](../../java-solutions/easy/climbing_stairs.java)
 - [1. Two Sum](../../java-solutions/easy/two_sum.java)
+- [121. Best Time to Buy and Sell Stock](../../java-solutions/easy/best_time_to_buy_and_sell_stock.java)
 
 Feel free to explore each problem and provide feedback or suggestions on my solutions!
 

@@ -11,6 +11,10 @@ This directory contains my solutions to medium problems from the top 150 LeetCod
 - [45. Jump Game II](../../java-solutions/medium/jump_game_2.java)
 - [274. H-Index](../../java-solutions/medium/h_index.java)
 - [380. Insert Delete GetRandom O(1)](../../java-solutions/medium/insert_delete_getrandom_o1.java)
+- [238. Product of Array Except Self](../../java-solutions/medium/product_of_array_except_self.java)
+- [134. Gas Station](../../java-solutions/medium/gas_station.java)
+- [12. Integer to Roman](../../java-solutions/medium/integer_to_roman.java)
+- [151. Reverse Words in a String](../../java-solutions/medium/reverse_words_string.java)
 
 Feel free to explore each problem and provide feedback or suggestions on my solutions!
 

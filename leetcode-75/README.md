@@ -10,8 +10,8 @@ You can navigate through each category to explore problems of different difficul
 
 Here's a quick overview of my progress:
 
-- [ ] [Easy Problems](easy/README.md): 4/22 solved
-- [ ] [Medium Problems](medium/README.md): 0/53 solved
+- [ ] [Easy Problems](easy/README.md): 13/22 solved
+- [ ] [Medium Problems](medium/README.md): 14/53 solved
 
 ## Contact
 Connect with me on [LinkedIn](https://www.linkedin.com/in/roshan99/) for more discussions and updates.
